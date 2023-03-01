@@ -1,6 +1,4 @@
-<p align="center">
-	<img alt="logo" src="https://oscimg.oschina.net/oscnet/up-dd77653d7c9f197dd9d93684f3c8dcfbab6.png">
-</p>
+
 <h1 align="center" style="margin: 30px 0 30px; font-weight: bold;">PeiQi v4.7.6</h1>
 <h4 align="center">基于SpringBoot开发的轻量级Java快速开发框架</h4>
 <p align="center">
@@ -37,8 +35,5 @@
 ## 在线体验
 
 - admin/admin123  
-- 陆陆续续收到一些打赏，为了更好的体验已用于演示服务器升级。谢谢各位小伙伴。
-
-
 
 
